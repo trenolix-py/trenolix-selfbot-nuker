@@ -9,3 +9,10 @@ A discord selfbot is a discord bot that one runs with their user token rather th
 ## WARNING
 
 This is a __SELFBOT__, which is against the current discord Terms of Service. It is advised that you do not use this selfbot. This is for educational purposes only. 
+
+## Need help?
+
+Since I am a beginner in Python and this is my first public project, there may be some errors. If you need assistance if you encounter some sort of error, you may contact me and I will assist you. Thanks!
+
+My discord: 
+antivaxxor_khilafa_rotat
