@@ -85,7 +85,7 @@ async def kick(ctx):
     success = sum(1 for r in results if not isinstance(r, Exception))
     await ctx.send(f"Kicked {success} members.")
 
-@arman.command()
+@client.command()
 async def help(ctx):
     try: await ctx.message.delete()
     except: pass
